@@ -24,7 +24,7 @@
     Testing: Jest, React Testing Library, PHPUnit  
   </li>
   <li>
-    Database: MYSQL, PostgresSQL  
+    Database: MYSQL, PostgreSQL  
   </li>
   <li>
     Tools: Version Control - Git, PHPStorm, Visual Studio Code 

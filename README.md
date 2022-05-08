@@ -1,5 +1,7 @@
-<h1 align="center">Hi 👋, I'm Charlotte</h1>
-<h3 align="center">I am a software developer based in the UK.</h3>
+<h1 align="center">Charlotte Furness</h1>
+<h3 align="center">A software developer based in the UK.</h3>
+
+- 📍 Nottingham, UK
 
 - 🌱 I’m currently learning **Data Analytics.**
 

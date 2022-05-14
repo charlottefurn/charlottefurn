@@ -3,8 +3,6 @@
 
 - 📍 Nottingham, UK
 
-- 🌱 I’m currently learning **Data Analytics.**
-
 - 👩🏻‍💻 All of my projects are available at [https://github.com/charlottefurn](https://github.com/charlottefurn)
 
 <h3 align="left">Connect with me:</h3>
@@ -24,7 +22,7 @@
     Testing: Jest, React Testing Library, PHPUnit  
   </li>
   <li>
-    Database: MYSQL, PostgreSQL  
+    Database: MySQL, PostgreSQL  
   </li>
   <li>
     Tools: Version Control - Git, PHPStorm, Visual Studio Code 

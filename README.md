@@ -1,6 +1,8 @@
 <h1 align="center">Charlotte Furness</h1>
 <h3 align="center">A software developer based in the UK.</h3>
 
+- 👋🏼 Hi, I'm Charlotte! Welcome to where I keep all the personal projects that I'm currently playing with.
+
 - 📍 Nottingham, UK
 
 - 👩🏻‍💻 All of my projects are available at [https://github.com/charlottefurn](https://github.com/charlottefurn)

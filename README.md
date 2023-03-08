@@ -3,7 +3,7 @@
 
 - 👋🏼 Hi, I'm Charlotte! Welcome to where I keep all the personal projects that I'm currently playing with.
 
-- 📍 Nottingham, UK
+- 📍 Vancouver, Canada
 
 - 👩🏻‍💻 All of my projects are available at [https://github.com/charlottefurn](https://github.com/charlottefurn)
 
@@ -24,7 +24,7 @@
     Testing: Jest, React Testing Library, PHPUnit  
   </li>
   <li>
-    Database: MySQL, PostgreSQL  
+    Database: SQL 
   </li>
   <li>
     Tools: Version Control - Git, PHPStorm, Visual Studio Code 

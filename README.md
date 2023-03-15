@@ -1,5 +1,5 @@
 <h1 align="center">Charlotte Furness</h1>
-<h3 align="center">A software developer based in the UK.</h3>
+<h3 align="center">A software developer soon to be based in Vancouver 🇨🇦.</h3>
 
 - 👋🏼 Hi, I'm Charlotte! Welcome to where I keep all the personal projects that I'm currently playing with.
 
